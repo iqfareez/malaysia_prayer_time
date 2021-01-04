@@ -28,7 +28,7 @@ class _MyExampleAppState extends State<MyExampleApp> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text(MTT),
+      child: Text('test'),
     );
   }
 }
